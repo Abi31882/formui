@@ -1,0 +1,47 @@
+.HeaderClassnames {
+  padding: 30px 0 0 20px;
+  color: white;
+}
+
+.inputHeadings {
+  font-size: 20px;
+  font-weight: 800;
+  word-spacing: 5px;
+  letter-spacing: 1px;
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+
+.CarrierHeader {
+  padding: 20px 0 2px 20px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.NameText {
+  padding-bottom: 10px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.EmailText {
+  padding-bottom: 10px;
+  font-size: 16px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+
+.Carrier-1-ID {
+  padding-left: 30px;
+  font-size: 14px;
+  font-weight: 600;
+  padding-bottom: 9px;
+}
+
+.Carrier-2-ID {
+  padding-left: 30px;
+  font-size: 14px;
+  font-weight: 600;
+  padding-bottom: 9px;
+}

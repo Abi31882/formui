@@ -1,0 +1,18 @@
+.Form {
+  padding-left: 100px;
+}
+
+.input {
+  width: 500px;
+  height: 35px;
+}
+
+.border {
+  height: 0px;
+  color: black;
+  width: 1185px;
+  border: 1px solid black;
+  background-color: black;
+  padding-left: 0px;
+  margin-left: 0;
+}
